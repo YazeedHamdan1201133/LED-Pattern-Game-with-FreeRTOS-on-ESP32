@@ -127,8 +127,9 @@ This project demonstrates:
 ## 👨‍💻 Authors
 This project was developed by:
 
-- **Yazeed Hamdan** 🚀  
-- Additional contributors (if applicable)  
+- **Yazeed Hamdan**  
+- **Mahmoud Hamdan**
+- **Anas Hawamdah**    
 
 Feel free to reach out for collaboration or inquiries! 😊  
 
