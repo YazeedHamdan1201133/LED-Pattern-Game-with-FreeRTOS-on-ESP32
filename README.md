@@ -19,7 +19,7 @@ This project utilizes **FreeRTOS on the ESP32** and integrates with the **Blynk 
 - **ESP32**
 - **Breadboard**
 - **4 Different-Colored LEDs**
-- **Resistors (220Ω, 4.7KΩ, 10KΩ)**
+- **Resistors (220Ω**
 - **LCD Display**
 - **Jumper Wires**
 
